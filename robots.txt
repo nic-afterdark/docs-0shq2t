@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-fug9p2.prompt-gacha.com/sitemap.xml
